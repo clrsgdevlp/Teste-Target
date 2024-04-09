@@ -19,7 +19,15 @@ namespace Fibonacci
 
             calculoFibonacci.VerificaFibonacci(numero);
 
+            Console.WriteLine("digite uma string:");
+            var valorString = Console.ReadLine();
+
+            var invertString = new InverteString();
+            invertString.InverteValorString(valorString);
+
+            
            
         }
     }
 }
+
