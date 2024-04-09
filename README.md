@@ -14,7 +14,7 @@ Repositório criado para o teste da empresa Target
 
 	} 
 
- 	imprimir(SOMA); 
+ 	imprimir(SOMA); resultado será = 91
 
   
 
